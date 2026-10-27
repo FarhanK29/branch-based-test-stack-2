@@ -8,7 +8,7 @@ deployment "prod" {
 deployment "staging" {
   inputs = {
     prefix    = "staging"
-    instances = 5
+    instances = 6
   }
 }
 
