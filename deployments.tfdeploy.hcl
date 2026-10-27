@@ -1,7 +1,7 @@
 deployment "prod" {
   inputs = {
     prefix    = "prod"
-    instances = 7
+    instances = 8
   }
 }
 
